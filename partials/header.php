@@ -7,10 +7,16 @@
 </head>
 <body>
 
-<nav class="navbar navbar-dark bg-dark">
-    <div class="container">
-        <a href="../index.php" class="navbar-brand">CRUD PHP - MYSQL</a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <div class="container ml-5">
+        <a class="navbar-brand" href="../index.php">CRUD-PHP-MYSQL</a>
+
     </div>
+
+    <a class="link my-2 my-sm-0 mr-3" type="submit" href="../templates/tmpAuth/login-form.php">Login</a>
+    <a class="link my-2 my-sm-0 mr-5" type="submit" href="../templates/tmpAuth/signup-form.php">Signup</a>
+
 </nav>
 
 
